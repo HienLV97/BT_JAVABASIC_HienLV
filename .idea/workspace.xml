@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca212439-0f71-48cc-bf3e-a8bc8623b95e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_1/ThongTin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_3/Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_3/QuanHe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_4/VongLapFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_5/BT5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BT_JAVABASIC_1/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_1/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT_JAVABASIC_4/VongLapFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_4/VongLapFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VongLapFor">
+  <component name="RunManager" selected="Application.BT5">
+    <configuration name="BT5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_5.BT5" />
+      <module name="BT_JAVABASIC_HienLV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_JAVABASIC_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_2.Calculator" />
       <module name="BT_JAVABASIC_HienLV" />
@@ -89,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThongTin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_1.ThongTin" />
-      <module name="BT_JAVABASIC_HienLV" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BT_JAVABASIC_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VongLapFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_4.VongLapFor" />
       <module name="BT_JAVABASIC_HienLV" />
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT5" />
         <item itemvalue="Application.VongLapFor" />
         <item itemvalue="Application.Logic" />
         <item itemvalue="Application.QuanHe" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.ThongTin" />
       </list>
     </recent_temporary>
   </component>

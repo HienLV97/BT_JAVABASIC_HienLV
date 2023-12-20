@@ -4,7 +4,7 @@ public class VongLapFor {
 	public static void main(String[] args) {
 		int a[] = new int[26];
 		int x = 0;
-		System.out.println("Các phần tử số ch");
+		System.out.println("Các phần tử số chẵn");
 		for (int i = 0; i <= 50; i++) {
 			if (i % 2 == 0) {
 				a[x] = i;
