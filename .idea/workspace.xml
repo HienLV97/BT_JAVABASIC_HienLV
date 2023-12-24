@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca212439-0f71-48cc-bf3e-a8bc8623b95e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_5/BT5.java" afterDir="false" />
+    <list default="true" id="ca212439-0f71-48cc-bf3e-a8bc8623b95e" name="Changes" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BT_JAVABASIC_4/VongLapFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_4/VongLapFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT_JAVABASIC_5/BT5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT_JAVABASIC_5/BT5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_2.Calculator" />
+    <configuration name="Logic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_3.Logic" />
       <module name="BT_JAVABASIC_HienLV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT_JAVABASIC_2.*" />
+          <option name="PATTERN" value="BT_JAVABASIC_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +70,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_3.Logic" />
-      <module name="BT_JAVABASIC_HienLV" />
+    <configuration name="NhanVien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_JAVABASIC_5.NhanVien" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT_JAVABASIC_3.*" />
+          <option name="PATTERN" value="BT_JAVABASIC_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,10 +111,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BT5" />
+        <item itemvalue="Application.NhanVien" />
         <item itemvalue="Application.VongLapFor" />
         <item itemvalue="Application.Logic" />
         <item itemvalue="Application.QuanHe" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1702442185630</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <option name="closed" value="true" />
+      <created>1703001016903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703001016903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
