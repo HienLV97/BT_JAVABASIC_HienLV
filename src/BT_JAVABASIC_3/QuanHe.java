@@ -11,8 +11,7 @@ public class QuanHe {
 		String text1 = "Hien LV";
 		String text2 = "Hien LE VINH";
 		String text3 = "Hien LV";
-//		String s = (numberA % numberB == 0) ? "a chia het cho b" : "a khong chia het cho b";
-//		System.out.println(s);
+
 		boolean toanTuSoSanhVa = ((numberA == numberA1) && (numberB == numberC));
 		System.out.println("A = B and B = C: " + toanTuSoSanhVa);
 		boolean toanTuHoac = (numberA == numberB) || (numberA == numberA1);
